@@ -12,7 +12,7 @@ Copiar el CDN
 
 Instala GIT en tu computador
 Instala nodejs en tu computador
-*PROBANDO*
+##PROBANDO
 Abre Visual Studio Code
 
 First, clone the repo
