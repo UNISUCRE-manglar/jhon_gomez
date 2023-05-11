@@ -14,5 +14,9 @@ router.get("/contact", (req, res) => {
   res.render("contact", { title: "Contact Page" });
 });
 
+router.get("/graphics", (req, res) => {
+  res.render("graphics", { title: "Graphics" });
+});
+
 
 export default router;
